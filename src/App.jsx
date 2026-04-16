@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import heroImage from './assets/Hero.jpeg'
+import heroImage from './assets/HERO.jpeg'
 import churchImage from './assets/Gemini_Generated_Image_f79n80f79n80f79n.png'
 import burgerImage from './assets/Gemini_Generated_Image_ro7nrxro7nrxro7n.png'
 
